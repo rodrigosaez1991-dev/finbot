@@ -10,6 +10,9 @@ Asistente de educación financiera para Chile, hecho con FastAPI.
 
 > Finbot es educativo y no entrega recomendaciones financieras.
 
+**Pruébalo en línea:** https://finbot-529588732198.southamerica-west1.run.app
+(desplegado en Google Cloud Run, región Santiago).
+
 ## Instalación
 
 ```bash
